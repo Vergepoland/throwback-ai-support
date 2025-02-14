@@ -3,7 +3,7 @@ Here you can find answers to many questions we on the staff get asked frequently
 
 # General
 ## I do not own Rainbow Six: Siege on Steam, can I download using my Ubisoft/Epic Games account instead?
-The simple answer is that you **cannot**.  
+The simple answer is **no**.  
 The technical answer is that our downloaders use Steam's depot service in order to download old versions of the game from their servers.  
 In order to get access to the Steam servers, you need a valid Steam account that has a valid license for Rainbow Six: Siege registered to it.  
 You cannot authorize a connection to the **Steam** depot servers using a **Ubisoft** or **Epic Games** account, just like you cannot log into Steam using your Ubisoft or Epic Games account.
@@ -31,9 +31,10 @@ Make sure that when you launch the batch (*.bat*) file, you leave it running unt
 If you do not have a batch (*.bat*) file or you keep getting this error, try replacing your crack files.
 
 ## "Your install appears to have missing files. Please verify the integrity of your install through Steam."
-If you get this error while trying to start your game, you will need to replace your crack files.
+If you get this error while trying to start your game, you will need to download shears in #tool-releases.
 
 ## My game keeps crashing on launch, how do I fix it?
+change game name in codex.ini 
 
 # Downloader
 # Liberator

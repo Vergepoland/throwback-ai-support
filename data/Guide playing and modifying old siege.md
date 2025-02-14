@@ -4,7 +4,7 @@ If you are more of a fan of textual guides however, you can find one below the v
 # How to download Old Siege using SlejmUr's downloader
 1. Find a drive/folder where you have ample disk space. Some versions of old siege are as large as 80-90 GB.
 
-2. Create a folder but make sure there are no spaces in its name. As an example: ‘OldSiege’ instead of ‘Old Siege’.
+2. Create a folder but make sure there are no spaces in its name. For example: ‘OldSiege’ instead of ‘Old Siege’.
 
 3. Set up an exclusion in your Windows Defender and/or third-party antivirus for the folder you just created.
 This is important as some files that are required to make the game work properly are flagged as viruses.
