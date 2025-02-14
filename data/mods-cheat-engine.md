@@ -1,7 +1,3 @@
----
-description: How to use cheat tables to mod the game
----
-
 # Mods/Cheat Engine
 
 ## What is Cheat Engine? What is a cheat table?
@@ -12,23 +8,11 @@ A "cheat table" is a file that Cheat Engine is able to read. It ends in `.ct` an
 
 ## Where do I download Cheat Engine?
 
-
-
-{% embed url="https://github.com/cheat-engine/cheat-engine/releases/latest" %}
-
-## How to download Cheat Engine
-
-Watch first the video
-
-{% embed url="https://www.youtube.com/watch?v=oA6Uv7pyMY8" %}
-
-{% file src="../.gitbook/assets/How To Download Cheat Engine 75 Without Viruses 2023_1080pFHR.mp4" %}
-Backup in case yt-video removes it
-{% endfile %}
+https://github.com/cheat-engine/cheat-engine/releases/latest
 
 ## What cheat tables are public?
 
-The only tables that are public are in the [#tool-releases](https://discord.com/channels/1092820800203141130/1092832304516305039) channel or from [unknowncheats.me](https://www.unknowncheats.me/forum/index.php) (there are also "unlock all" in there)
+The only tables that are public are in the <#1092832304516305039> channel or from https://www.unknowncheats.me/forum/index.php 
 
 ## How do I set up a cheat table?
 
